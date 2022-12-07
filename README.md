@@ -2,8 +2,9 @@ This is a 'Repository' that having some good information about how "Weather App 
 
 Using "PYTHON" and "HTML".
 
-##### Requirements
 
+Requirements
+------
 1. Version.
 2. bs4.
 3. Requests.
@@ -11,16 +12,16 @@ Using "PYTHON" and "HTML".
 5. tkinter.
 6. urllib request.
 
-##### Cities
-
+Cities
+------
 In this we can see any city we want.
 
-##### Application used for making weather app 
-
+Application used for making weather app 
+------
 By Open Weather API
 
-##### This App provides us
-
+This App provides us
+------
 1. Humidity.
 2. Temperature.
 3. Pressure.
