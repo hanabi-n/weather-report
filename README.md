@@ -3,7 +3,7 @@ This is a 'Repository' that having some good information about how "Weather App 
 Using "PYTHON" and "HTML".
 
 
-Requirements
+:clipboard: Requirements
 ------
 1. Version.
 2. bs4.
@@ -12,15 +12,15 @@ Requirements
 5. tkinter.
 6. urllib request.
 
-Cities
+:city_sunrise: Cities
 ------
 In this we can see any city we want.
 
-Application used for making weather app 
+:umbrella: Application used for making weather app 
 ------
 By Open Weather API
 
-This App provides us
+:pushpin: This App provides us
 ------
 1. Humidity.
 2. Temperature.
