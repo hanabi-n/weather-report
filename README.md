@@ -14,7 +14,9 @@ Using "PYTHON" and "HTML".
 
 :city_sunrise: Cities
 ------
-In this we can see any city we want.
+We can see any city we want.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53466808/206199044-df961a42-8b7d-4b1f-8639-c9d01c302b15.gif)
 
 :umbrella: Application used for making weather app 
 ------
